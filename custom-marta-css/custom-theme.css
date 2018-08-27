@@ -1,0 +1,118 @@
+/* Desktop Styles */
+.Index-page--has-image .Index-page-content {
+	padding-bottom: 28vh;
+	padding-top: 28vh;
+}
+.header-inner .Header-inner--bottom {
+	padding-top: 15px;
+}
+/* Deleted all the rest of the modules for Marta */
+#inspiration-marta {
+	display: none;
+}
+#fw-15-title-marta {
+	display: none;
+}
+#fw-15-marta {
+	display: none;
+}
+#ss-16-marta {
+	display: none;
+}
+.Index-page-content {
+	padding: 50px 50px;
+}
+/* Shop Button */
+#block-yui_3_17_2_4_1444337763811_19964 .sqs-block {
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+/* Footer */
+#footerBlocksMiddle {
+	display: none;
+}
+.Footer-inner {
+	padding: 20px 50px;
+}
+.tweak-footer-layout-columns .Footer-nav-folder-heading {
+	display: none;
+}
+.tweak-footer-layout-columns .Footer--mid .Footer-nav-group {
+	width: auto;
+}
+.tweak-footer-layout-columns .Footer-blocks--bottom {
+	padding-top: 15px;
+}
+.Footer-nav-group {
+	padding: 20px 20px 0;
+}
+#block-yui_3_17_2_2_1445265920425_8708 p {
+	font-size: 14px;
+}
+#instagram-marta {
+	display: none;
+}
+.Footer {
+	background-color: #fff;
+}
+.Footer-nav-folder-item {
+	text-transform: uppercase;
+	font-weight: bold;
+}
+/* Copyright Info */
+#block-yui_3_17_2_2_1445265920425_8708 .sqs-block-content p {
+	text-transform: uppercase;
+	color: #64605B;
+}
+/* End of Home Styles */
+
+.sqs-product-quick-view-button-wrapper .sqs-product-quick-view-button {
+	display: none;
+}
+.tweak-product-list-meta-position-overlay .ProductList-item {
+	margin-bottom: 100px;
+}
+.tweak-product-list-meta-position-overlay.tweak-product-list-mobile-meta-position-under .ProductList-meta {
+	margin: -3em 2em;
+}
+/* End of Shop Styles */
+
+.Main-content {
+	padding: 125px 150px;
+}
+.tweak-blog-list-style-grid [data-columns='3'] .BlogList-item {
+	width: calc(75% - 34px);
+	margin: auto;
+	float: none;
+}
+.BlogList-item-image-link img {
+	width: 100%;
+	height: auto;
+}
+.BlogList-item-title {
+	font-size: 26px;
+	text-transform: uppercase;
+	line-height: 1.4;
+	font-weight: bold;
+}
+/* End of Journal */
+
+/* Remove Lookbook title */
+#lookbook-title-marta {
+	display: none;
+}
+#lookbook-description-1-marta .Index-page-content,
+#lookbook-description-2-marta .Index-page-content,
+#lookbook-cta-marta .Index-page-content {
+	padding: 50px 0;
+}
+
+/* End of Lookbook Styles */
+.has-site-title .Header-branding {
+	font-size: 34px;
+	font-weight: bold;
+}
+/* Repeated Class, this is at the top */
+.Header-inner--bottom {
+	padding-top: 15px;
+}
