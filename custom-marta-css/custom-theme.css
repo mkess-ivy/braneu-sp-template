@@ -1,7 +1,7 @@
 /* Desktop Styles */
 .Index-page--has-image .Index-page-content {
-	padding-bottom: 28vh;
-	padding-top: 28vh;
+	padding-bottom: 35.5vh;
+	padding-top: 35.5vh;
 }
 .header-inner .Header-inner--bottom {
 	padding-top: 15px;
@@ -116,3 +116,11 @@
 .Header-inner--bottom {
 	padding-top: 15px;
 }
+
+
+
+/* Options Deleted 
+
+Main Overlay - hsla(15, 32%, 71%, 0.55)
+
+*/
