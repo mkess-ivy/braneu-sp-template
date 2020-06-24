@@ -1,260 +1,302 @@
-#collection-5b81711488251bb51feadda2 .Header-branding-logo,
-#collection-5b85edbb8a922d766a721c3c .Header-branding-logo {
-  -webkit-filter: invert(100%) !important;
-           filter: invert(100%) !important;
-           filter:progid:DXImageTransform.Microsoft.BasicImage(invert='1') !important;
-}
-#block-yui_3_17_2_2_1445265920425_8708 .sqs-block-content p {
-  font-size: 12px;
-}
-/* Responsive Styles */
-@media only screen and (max-width:640px) {
-	.tweak-footer-layout-columns .Footer-nav-group {
-	}
-	.tweak-footer-layout-columns .Footer-business-info, .tweak-footer-layout-columns .Footer-business-hours, .tweak-footer-layout-columns .Footer-nav-group, .tweak-footer-layout-columns .Footer-blocks--middle {
-		padding: 5px 0 0 20px;
-	}
+.the-brand-text {
+	font-size:16px;
+	line-height: 24px;
+  }
+  
+  
+  
+  .tweak-header-primary-nav-hover-style-spotlight .Header-nav .Header-nav-folder {
+	background-color: #dcdcdc;
+  }
+  .tweak-header-primary-nav-hover-style-spotlight .Header-nav .Header-nav-folder-item:hover {
+	color: #000;
+  }
+  .tweak-header-primary-nav-hover-style-spotlight .Header-nav .Header-nav-folder-item {
+	color: rgba(0,0,0,0.5);
+  }
+  .Header-nav-folder-item {
+	display: inline-block !important;
+	padding: 0.382em 1.5em !important;
+  }
+  #collection-5b81711488251bb51feadda2 .Header-branding-logo,
+  #collection-5b85edbb8a922d766a721c3c .Header-branding-logo {
+	-webkit-filter: invert(100%) !important;
+			 filter: invert(100%) !important;
+			 filter:progid:DXImageTransform.Microsoft.BasicImage(invert='1') !important;
+  }
   #block-yui_3_17_2_2_1445265920425_8708 .sqs-block-content p {
-    font-size: 12px;
+	font-size: 12px;
+  }
+  /* Responsive Styles */
+  @media only screen and (max-width:640px) {
+	  .tweak-footer-layout-columns .Footer-nav-group {
+	  }
+	  .tweak-footer-layout-columns .Footer-business-info, .tweak-footer-layout-columns .Footer-business-hours, .tweak-footer-layout-columns .Footer-nav-group, .tweak-footer-layout-columns .Footer-blocks--middle {
+		  padding: 5px 0 0 20px;
+	  }
+	#block-yui_3_17_2_2_1445265920425_8708 .sqs-block-content p {
+	  font-size: 12px;
+	}
+	#footerBlocksBottom {
+	  padding-top: 0;
+	}
+	#block-yui_3_17_2_2_1445265920425_8708 {
+	  padding-top: 0 !important;
+	}
+	.tweak-footer-layout-columns .Footer-middle {
+	  padding-top: 15px;
+	}
+	#block-yui_3_17_2_2_1445265920425_8708 {
+	  padding-bottom: 0 !important;
+	}
+	/* Philosophy */
+		#block-yui_3_17_2_1_1535504212360_5754 {
+			padding: 20px;
+	  }
+  /* Brand Philosophy Title */
+  #yui_3_17_2_1_1535505306620_513 p {
+   padding: 0 0 0 40px;   
+  }
+  #block-yui_3_17_2_1_1535504212360_5754 .sqs-block-content p strong {
+	  font-size: 30px !important;
+	  width: 70%;
+	  padding-left: 0 !important;
+  }
+  #block-yui_3_17_2_1_1535504212360_5754 .sqs-block-content p:nth-child(2) {
+	  padding-left: 0 !important;
+	  line-height: 1.4;
+	  font-size: 14px;
+  }
+  .tweak-footer-layout-columns .Footer--mid .Footer-nav-group:first-child {
+	padding-top: 20px;
+  }
+  /* Policies */
+  #block-46d2e5f9fa79f542b344 .sqs-block-content p a {
+	  display: block;
+	  width: 100%;
+	  margin-top: -25px;
+  }
+	#block-46d2e5f9fa79f542b344 .sqs-block-content p a:first-child {
+	  margin-top: 10px;
+	}
+  }
+  
+  @media only screen and (min-width: 641px) and (max-width: 1024px) {
+	/* Tablet Styles */
+  #block-yui_3_17_2_1_1535504212360_5754 .sqs-block-content p:nth-child(2) {
+	  padding-left: 25px;
+	  line-height: 1.6;
+  }
+	.ProductList products-collection-v2 clear sqs-pinterest-products-wrapper {
+	  margin-top: 50px;
+	}
+  }
+  
+  
+  /* Desktop Styles */
+  @media only screen and (min-width:641px) {
+	  /* Home Styles */
+	  .header-inner .Header-inner--bottom {
+		  padding-top: 15px;
+	  }
+	  .Index-page-content {
+		  padding: 50px 50px;
+	  }
+	  /* Shop Button */
+	  #block-yui_3_17_2_4_1444337763811_19964 .sqs-block {
+		  padding-top: 2px;
+		  padding-bottom: 2px;
+	  }
+	  /* Footer */
+	  .tweak-footer-layout-columns .Footer-business-info, .tweak-footer-layout-columns .Footer-business-hours, .tweak-footer-layout-columns .Footer-nav-group, .tweak-footer-layout-columns .Footer-blocks--middle {
+		  padding: 20px 20px 0 20px;  
+	  }
+	  .tweak-footer-layout-columns .Footer-blocks--bottom {
+		  padding-top: 0;
+	  }
+	  
+	  .Footer-inner {
+		  padding: 20px 50px;
+	  }
+	  
+  
+	  .tweak-footer-layout-columns .Footer-blocks--bottom {
+		  padding-top: 15px;
+	  }
+	  .Footer-nav-group {
+		  padding: 20px 20px 0;
+	  }
+		.tweak-footer-layout-columns .Footer--mid .Footer-nav-group {
+		  width: auto;
+		}
+	  #block-yui_3_17_2_2_1445265920425_8708 p {
+		  font-size: 14px;
+	  }
+	  
+	  .Footer {
+		  background-color: #fff;
+	  }
+	  .Footer-nav-folder-item {
+		  text-transform: uppercase;
+		  font-weight: bold;
+	  }
+	  /* Copyright Info */
+	  #block-yui_3_17_2_2_1445265920425_8708 .sqs-block-content p {
+		  color: #64605B;
+	  }
+	  /* Shop Styles */
+	  
+	  .tweak-product-list-meta-position-overlay .ProductList-item {
+		  margin-bottom: 100px;
+	  }
+	  .tweak-product-list-meta-position-overlay.tweak-product-list-mobile-meta-position-under .ProductList-meta {
+		  margin: -3em 2em;
+	  }
+	  /* Journal Styles */
+	  .Main-content {
+		  padding: 125px 150px;
+	  }
+	  .tweak-blog-list-style-grid [data-columns='3'] .BlogList-item {
+		  
+	  }
+	  .BlogList-item-image-link img {
+		  width: 100%;
+		  height: auto;
+	  }
+	  .BlogList-item-title {
+		  font-size: 26px;
+		  text-transform: uppercase;
+		  line-height: 1.4;
+		  font-weight: bold;
+	  }
+	  /* Lookbook Styles */
+		
+	  #lookbook-description-1-marta .Index-page-content,
+	  #lookbook-description-2-marta .Index-page-content,
+	  #lookbook-cta-marta .Index-page-content {
+		  padding: 50px 0;
+	  }
+	  /*  */
+	  .has-site-title .Header-branding {
+		  font-size: 34px;
+		  font-weight: bold;
+	  }
+	  /* Repeated Class, this is at the top */
+	  .Header-inner--bottom {
+		  padding-top: 15px;
+	  } 
+		
+	  
+		
+		/* Policy Info */
+	.Main--blog-list {
+	  margin-top: 75px;
+	  margin-bottom: 9vh;
+	}
+  
+	
+  }/* End of Desktop Styles */
+  
+  
+  
+  /* Deleted all the rest of the modules for Marta */
+  #inspiration-marta {
+	  display: none;
+  }
+  #fw-15-title-marta {
+	  display: none;
+  }
+  #fw-15-marta {
+	  display: none;
+  }
+  #ss-16-marta {
+	  display: none;
+  }
+  /* Remove Lookbook title */
+  #lookbook-title-marta {
+	  display: none;
+  }
+  /* Footer Spacer */
+  #footerBlocksTop {
+	display:none;
+  }
+  #footerBlocksMiddle {
+		  display: none;
+	  }
+  .tweak-footer-layout-columns .Footer-nav-folder-heading {
+		  display: none;
+	  }
+  #instagram-marta {
+		  display: none;
+	  }
+  
+  
+  /* Global Styles */
+  /* Philosophy */
+  /* About Page */
+  #block-yui_3_17_2_1_1535504212360_5754 {
+	background-color: rgba(255,255,255,0.8);
+	color: #000;
+	padding: 50px;
+  }
+  /* Brand Philosophy Title */
+  #yui_3_17_2_1_1535505306620_513 {
+   font-size: 50px;
+   width: 65%;
+   line-height: 1;
+  }
+  #yui_3_17_2_1_1535505306620_513 p {
+   padding: 0 0 0 40px;   
+  }
+  #block-yui_3_17_2_1_1535504212360_5754 .sqs-block-content p strong {
+	  font-size: 55px;
+	  width: 70%;
+	  display: block;
+	  line-height: 1;
+	  padding-left: 0;
+  }
+  #block-yui_3_17_2_1_1535504212360_5754 .sqs-block-content p:nth-child(2) {
+	  padding-left: 75px;
+	  line-height: 1.6;
+  }
+  .tweak-footer-layout-columns .Footer--mid .Footer-nav-group:first-child {
+	padding-top: 20px;
+  }
+  /* Shop */
+  .sqs-product-quick-view-button-wrapper .sqs-product-quick-view-button {
+		  display: none;
+	  }
+  /* Home */
+  
+  .footer-nav-folder-item {
+	padding-bottom: 0;
   }
   #footerBlocksBottom {
-    padding-top: 0;
+	padding-top: 15px;
   }
-  #block-yui_3_17_2_2_1445265920425_8708 {
-    padding-top: 0 !important;
-  }
-  .tweak-footer-layout-columns .Footer-middle {
-    padding-top: 15px;
-  }
-  #block-yui_3_17_2_2_1445265920425_8708 {
-    padding-bottom: 0 !important;
-  }
-  /* Philosophy */
-  	#block-yui_3_17_2_1_1535504212360_5754 {
-  		padding: 20px;
-	}
-/* Brand Philosophy Title */
-#yui_3_17_2_1_1535505306620_513 p {
- padding: 0 0 0 40px;   
-}
-#block-yui_3_17_2_1_1535504212360_5754 .sqs-block-content p strong {
-	font-size: 30px !important;
-	width: 70%;
-	padding-left: 0 !important;
-}
-#block-yui_3_17_2_1_1535504212360_5754 .sqs-block-content p:nth-child(2) {
-	padding-left: 0 !important;
-	line-height: 1.4;
-	font-size: 14px;
-}
-.tweak-footer-layout-columns .Footer--mid .Footer-nav-group:first-child {
-  padding-top: 20px;
-}
-/* Policies */
-#block-46d2e5f9fa79f542b344 .sqs-block-content p a {
-	display: block;
-	width: 100%;
-	margin-top: -25px;
-}
-  #block-46d2e5f9fa79f542b344 .sqs-block-content p a:first-child {
-    margin-top: 10px;
-  }
-}
-
-@media only screen and (min-width: 641px) and (max-width: 1024px) {
-  /* Tablet Styles */
-#block-yui_3_17_2_1_1535504212360_5754 .sqs-block-content p:nth-child(2) {
-	padding-left: 25px;
-	line-height: 1.6;
-}
-  .ProductList products-collection-v2 clear sqs-pinterest-products-wrapper {
-    margin-top: 50px;
-  }
-}
-
-
-/* Desktop Styles */
-@media only screen and (min-width:641px) {
-	/* Home Styles */
-	.header-inner .Header-inner--bottom {
-		padding-top: 15px;
-	}
-	.Index-page-content {
-		padding: 50px 50px;
-	}
-	/* Shop Button */
-	#block-yui_3_17_2_4_1444337763811_19964 .sqs-block {
-		padding-top: 2px;
-		padding-bottom: 2px;
-	}
-	/* Footer */
-	.tweak-footer-layout-columns .Footer-business-info, .tweak-footer-layout-columns .Footer-business-hours, .tweak-footer-layout-columns .Footer-nav-group, .tweak-footer-layout-columns .Footer-blocks--middle {
-		padding: 20px 20px 0 20px;  
-	}
-	.tweak-footer-layout-columns .Footer-blocks--bottom {
-	    padding-top: 0;
-	}
-	
-	.Footer-inner {
-		padding: 20px 50px;
-	}
-	
-
-	.tweak-footer-layout-columns .Footer-blocks--bottom {
-		padding-top: 15px;
-	}
-	.Footer-nav-group {
-		padding: 20px 20px 0;
-	}
-  	.tweak-footer-layout-columns .Footer--mid .Footer-nav-group {
-    	width: auto;
-  	}
-	#block-yui_3_17_2_2_1445265920425_8708 p {
-		font-size: 14px;
-	}
-	
-	.Footer {
-		background-color: #fff;
-	}
-	.Footer-nav-folder-item {
-		text-transform: uppercase;
-		font-weight: bold;
-	}
-	/* Copyright Info */
-	#block-yui_3_17_2_2_1445265920425_8708 .sqs-block-content p {
-		color: #64605B;
-	}
-	/* Shop Styles */
-	
-	.tweak-product-list-meta-position-overlay .ProductList-item {
-		margin-bottom: 100px;
-	}
-	.tweak-product-list-meta-position-overlay.tweak-product-list-mobile-meta-position-under .ProductList-meta {
-		margin: -3em 2em;
-	}
-	/* Journal Styles */
-	.Main-content {
-		padding: 125px 150px;
-	}
-	.tweak-blog-list-style-grid [data-columns='3'] .BlogList-item {
-		
-	}
-	.BlogList-item-image-link img {
-		width: 100%;
-		height: auto;
-	}
-	.BlogList-item-title {
-		font-size: 26px;
-		text-transform: uppercase;
-		line-height: 1.4;
-		font-weight: bold;
-	}
-	/* Lookbook Styles */
-	  
-	#lookbook-description-1-marta .Index-page-content,
-	#lookbook-description-2-marta .Index-page-content,
-	#lookbook-cta-marta .Index-page-content {
-		padding: 50px 0;
-	}
-	/*  */
-	.has-site-title .Header-branding {
-		font-size: 34px;
-		font-weight: bold;
-	}
-	/* Repeated Class, this is at the top */
-	.Header-inner--bottom {
-		padding-top: 15px;
-	} 
-	  
-	
-  	
-  	/* Policy Info */
-  .Main--blog-list {
-    margin-top: 75px;
-    margin-bottom: 9vh;
-  }
-
   
-}/* End of Desktop Styles */
-
-
-
-/* Deleted all the rest of the modules for Marta */
-#inspiration-marta {
-	display: none;
-}
-#fw-15-title-marta {
-	display: none;
-}
-#fw-15-marta {
-	display: none;
-}
-#ss-16-marta {
-	display: none;
-}
-/* Remove Lookbook title */
-#lookbook-title-marta {
-	display: none;
-}
-/* Footer Spacer */
-#footerBlocksTop {
-  display:none;
-}
-#footerBlocksMiddle {
-		display: none;
-	}
-.tweak-footer-layout-columns .Footer-nav-folder-heading {
-		display: none;
-	}
-#instagram-marta {
-		display: none;
-	}
-
-
-/* Global Styles */
-/* Philosophy */
-/* About Page */
-#block-yui_3_17_2_1_1535504212360_5754 {
-  background-color: rgba(255,255,255,0.8);
-  color: #000;
-  padding: 50px;
-}
-/* Brand Philosophy Title */
-#yui_3_17_2_1_1535505306620_513 {
- font-size: 50px;
- width: 65%;
- line-height: 1;
-}
-#yui_3_17_2_1_1535505306620_513 p {
- padding: 0 0 0 40px;   
-}
-#block-yui_3_17_2_1_1535504212360_5754 .sqs-block-content p strong {
-	font-size: 55px;
-	width: 70%;
+  .Mobile-overlay-menu-main {
+	padding: 100px 0 35px 0;
+  }
+  
+  .product-mark.sold-out {
+	visibility: hidden;
+	 font-size:0;
+  }
+  .product-mark.sold-out:after {
+	visibility: visible;
+	content: 'Coming Soon'; 
+	font-size: 12px;
+	background-color: black;
+	color: red;
+  
+	text-align: center;
 	display: block;
-	line-height: 1;
-	padding-left: 0;
-}
-#block-yui_3_17_2_1_1535504212360_5754 .sqs-block-content p:nth-child(2) {
-	padding-left: 75px;
-	line-height: 1.6;
-}
-.tweak-footer-layout-columns .Footer--mid .Footer-nav-group:first-child {
-  padding-top: 20px;
-}
-/* Shop */
-.sqs-product-quick-view-button-wrapper .sqs-product-quick-view-button {
-		display: none;
+	margin-top: -12px;
+  }
+  
+  @media only screen and (max-width:640px) {
+	.product-mark.sold-out:after {
+	  font-size: 10px;
 	}
-/* Home */
-
-.footer-nav-folder-item {
-  padding-bottom: 0;
-}
-#footerBlocksBottom {
-  padding-top: 15px;
-}
-
-.Mobile-overlay-menu-main {
-  padding: 100px 0 35px 0;
-}
+  }
